@@ -1,4 +1,4 @@
-
+// type conversion also takes time and sometimes can lead to TLE: as in thsi question:
 class Solution {
 private:
     
