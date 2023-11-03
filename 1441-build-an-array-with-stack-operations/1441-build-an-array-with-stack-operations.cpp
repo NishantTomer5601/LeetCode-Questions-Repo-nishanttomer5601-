@@ -5,7 +5,7 @@ public:
         int i,c=1;
 
         for(i=0;i<a.size();i++){
-            while( i<a.size() and c!=a[i]){
+            while( i<a.size() && c!=a[i]){
                 ans.push_back("Push");
                 ans.push_back("Pop");
     
