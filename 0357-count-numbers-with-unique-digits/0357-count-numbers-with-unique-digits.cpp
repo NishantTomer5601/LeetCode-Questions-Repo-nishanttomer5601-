@@ -3,11 +3,11 @@ public:
     int countNumbersWithUniqueDigits(int n) {
         if(n == 0)
             return 1;
-        int ans = 10, calc = 9, temp = 9;
+        int ans = 10, numbers_remaining = 9, iterations = 9;
         for(int i = 0; i < n - 1; i++) {
-            calc *= temp;
-            ans += calc;
-            temp--;
+            numbers_remaining *= iterations;
+            ans += numbers_remaining;
+            iterations--;
         }
         return ans;
     }
