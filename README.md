@@ -10,3 +10,15 @@ Welcome to my GitHub repository! Here, you'll find a curated collection of LeetC
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+<!---LeetCode Topics End-->
