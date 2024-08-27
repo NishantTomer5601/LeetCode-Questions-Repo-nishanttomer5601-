@@ -21,4 +21,16 @@ Welcome to my GitHub repository! Here, you'll find a curated collection of LeetC
 |  |
 | ------- |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+## Array
+|  |
+| ------- |
+| [3519-find-the-number-of-winning-players](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/3519-find-the-number-of-winning-players) |
+## Hash Table
+|  |
+| ------- |
+| [3519-find-the-number-of-winning-players](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/3519-find-the-number-of-winning-players) |
+## Counting
+|  |
+| ------- |
+| [3519-find-the-number-of-winning-players](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/3519-find-the-number-of-winning-players) |
 <!---LeetCode Topics End-->
