@@ -24,6 +24,7 @@ Welcome to my GitHub repository! Here, you'll find a curated collection of LeetC
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/0287-find-the-duplicate-number) |
 | [3519-find-the-number-of-winning-players](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/3519-find-the-number-of-winning-players) |
 ## Hash Table
 |  |
@@ -33,4 +34,16 @@ Welcome to my GitHub repository! Here, you'll find a curated collection of LeetC
 |  |
 | ------- |
 | [3519-find-the-number-of-winning-players](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/3519-find-the-number-of-winning-players) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
