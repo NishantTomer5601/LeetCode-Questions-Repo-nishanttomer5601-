@@ -25,10 +25,12 @@ Welcome to my GitHub repository! Here, you'll find a curated collection of LeetC
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/0287-find-the-duplicate-number) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/3519-find-the-number-of-winning-players) |
 ## Hash Table
 |  |
 | ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/3519-find-the-number-of-winning-players) |
 ## Counting
 |  |
@@ -46,4 +48,8 @@ Welcome to my GitHub repository! Here, you'll find a curated collection of LeetC
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NishantTomer5601/LeetCode-Questions-Repo-nishanttomer5601-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
