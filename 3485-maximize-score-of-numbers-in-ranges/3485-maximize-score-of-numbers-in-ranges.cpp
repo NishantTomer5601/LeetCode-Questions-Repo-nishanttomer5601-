@@ -1,35 +1,36 @@
+#define ll long long
 class Solution {
 public:
-bool canAch(vector<int>& start, int d,int n,long long m){
-    int prev=start[0];
+bool canAch(vector<int> a, int d,int n,ll mid){
     for(int i=1;i<n;i++){
-        long long nxtS=0;
-        long long x=prev+m;
-        if(start[i]>x) nxtS=start[i];
-        else nxtS=x;
-        if(nxtS>start[i]+d){
-            return false;
-        }
-        prev=nxtS;
+        if(a[i]-a[i-1]>=mid)continue;
+        else{
+            if(a[i]+d-a[i-1]<mid) return false;
+            else{
+                a[i]=a[i-1]+mid;
+            }
 
+        }
     }
-    return true;
+   return true;
 
 }
 
     int maxPossibleScore(vector<int>& start, int d) {
         sort(start.begin(),start.end());
         int n=start.size();
-        long long l=0,h=1e9+d;
-        while(l<h){
-            long long mid=(l+h+1)/2;
+        ll l=0,h=INT_MAX;
+        ll ans;
+        while(l<=h){
+            int mid=(l+h)>>1;
             if(canAch(start,d,n,mid)){
-                l=mid;
+                ans=mid;
+                l=mid+1;
             }
             else{
                 h=mid-1;
             }
         }
-        return l;
+        return ans;
     }
 };
